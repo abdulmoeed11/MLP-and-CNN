@@ -1,0 +1,4 @@
+1. This is the link for the best MLP model on drive. https://drive.google.com/open?id=1VyPPl36G1UJwZ4KhGhX5-HtHLs0Y6jju
+2. Just open the notebook on Google Collab and run it
+3. best_model2 if the best model from the CNN.
+4. Pictures are included in the zip
